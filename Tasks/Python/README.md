@@ -4,4 +4,4 @@ Brownian Motion is the random movement of particles in a fluid due to their coll
 
 ## Gif of Brownian Motion
 
-![](https://github.com/MihirGore23/JDERobot/blob/main/Tasks/Python/assets/Python%20Video.mp4)
+![](https://github.com/MihirGore23/JDERobot/blob/main/Tasks/Python/assets/PythonVideo-ezgif.com-video-to-gif-converter.gif)
